@@ -1,10 +1,17 @@
-# freelance developer
+## freelance developer
+contact me at...
+
+![8xz.bsky.social](https://img.shields.io/badge/-8xz.bsky.social-black?style=flat-square&logo=twitter)
+![@smokingskul_](https://img.shields.io/badge/-@oa6z-black?style=flat-square&logo=discord)
+![doocaca069@gmail.com](https://img.shields.io/badge/-doocaca169@gmail.com-black?style=flat-square&logo=gmail)
+
 most proficient in...
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Livewire](https://img.shields.io/badge/-Livewire-black?style=flat-square&logo=livewire)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -16,3 +23,5 @@ learning...
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B)
+
+### 
