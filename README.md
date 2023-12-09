@@ -23,5 +23,4 @@ learning...
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B)
-
-### 
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
