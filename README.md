@@ -3,7 +3,6 @@ contact me at...
 
 ![8xz.bsky.social](https://img.shields.io/badge/-8xz.bsky.social-black?style=flat-square&logo=twitter)
 ![@smokingskul_](https://img.shields.io/badge/-@oa6z-black?style=flat-square&logo=discord)
-![doocaca069@gmail.com](https://img.shields.io/badge/-doocaca169@gmail.com-black?style=flat-square&logo=gmail)
 
 most proficient in...
 
