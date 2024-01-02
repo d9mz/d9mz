@@ -12,10 +12,12 @@ most proficient in...
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=flat-square&logo=arch-linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 learning...
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat-square&logo=OpenGL)
