@@ -1,8 +1,4 @@
 ## freelance developer
-contact me at...
-
-![8xz.bsky.social](https://img.shields.io/badge/-8xz.bsky.social-black?style=flat-square&logo=twitter)
-![@smokingskul_](https://img.shields.io/badge/-@oa6z-black?style=flat-square&logo=discord)
 
 most proficient in...
 
