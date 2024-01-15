@@ -1,7 +1,5 @@
 ## freelance developer
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=fakingjax&count=1&header_size=compact_stats_only)
-
 most proficient in...
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
